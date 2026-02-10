@@ -1,0 +1,12 @@
+Classification Report
+==================================================
+akiec - Precision: 0.0000, Recall: 0.0000, F1-Score: 0.0000
+bcc - Precision: 0.0000, Recall: 0.0000, F1-Score: 0.0000
+bkl - Precision: 0.1266, Recall: 0.0913, F1-Score: 0.1061
+df - Precision: 0.0000, Recall: 0.0000, F1-Score: 0.0000
+mel - Precision: 0.0933, Recall: 0.0315, F1-Score: 0.0471
+nv - Precision: 0.6717, Recall: 0.8695, F1-Score: 0.7579
+vasc - Precision: 0.0000, Recall: 0.0000, F1-Score: 0.0000
+Accuracy: 0.5965
+Macro Avg F1-Score: 0.1302
+Weighted Avg F1-Score: 0.5250
